@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.isobaraustralia.com" />
+          <token>df9cdfcbdf9fdfcbdf9bdf9adf9ddf99df93dfcbdfc8df9cdf92df9cdf9ddf99df9fdfcbdfccdf99dfcedf9edfc9df9cdf92df99dfcbdf9fdf9ddf9fdfc9dfccdf92df98df9adf99dfcfdf93dfcbdfcf</token>
+          <option name="name" value="Isobar SonarQube" />
+          <organizationKey />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
