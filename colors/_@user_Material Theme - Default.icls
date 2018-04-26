@@ -1,11 +1,13 @@
 <scheme name="_@user_Material Theme - Default" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-02-07T15:16:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-08T16:06:10</property>
+    <property name="modified">2018-04-26T16:50:51</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="13" />
@@ -14,6 +16,7 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
