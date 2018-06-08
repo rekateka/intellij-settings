@@ -4,7 +4,7 @@
     <property name="created">2017-02-07T15:16:51</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2018-04-26T16:50:51</property>
+    <property name="modified">2018-06-08T10:39:39</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -54,7 +54,7 @@
     <option name="SELECTION_BACKGROUND" value="314549" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
-    <option name="WHITESPACES" value="2e3c43" />
+    <option name="WHITESPACES" value="5e7d88" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="99b89d" />
   </colors>
   <attributes>
