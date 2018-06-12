@@ -1,7 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
+    <option name="version" value="2.4.0.3-2018.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="userId" value="-7efcda6a:163f229bad1:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
