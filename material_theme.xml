@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="2.7.0" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="tabsHeight" value="50" />
     <option name="arrowsStyle" value="Darcula" />
     <option name="userId" value="-7efcda6a:163f229bad1:-7fff" />
