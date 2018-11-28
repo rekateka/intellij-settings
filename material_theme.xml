@@ -5,9 +5,10 @@
     <option name="isCompactMenus" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="useMaterialFont2" value="true" />
     <option name="indicatorStyle" value="Dot" />
     <option name="tabsHeight" value="50" />
-    <option name="accentColor" value="42a5f5" />
+    <option name="accentColor" value="80cbc4" />
     <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="-7efcda6a:163f229bad1:-7fff" />
     <option name="version" value="3.0.0-pre4" />
