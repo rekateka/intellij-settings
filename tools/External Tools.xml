@@ -29,8 +29,8 @@
   </tool>
   <tool name="Commit Snap" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="ruby post-commit-snap.rb" />
-      <option name="PARAMETERS" />
+      <option name="COMMAND" value="ruby" />
+      <option name="PARAMETERS" value="post-commit-snap.rb" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/Git/Holden/resources/html/bin" />
     </exec>
   </tool>
